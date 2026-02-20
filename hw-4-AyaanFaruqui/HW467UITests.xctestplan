@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "2ED1159D-6059-490B-8240-72BB4C93E90F",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:HW467.xcodeproj",
+      "identifier" : "0DBF0F282D482CDF0089FC55",
+      "name" : "HW467"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:HW467.xcodeproj",
+        "identifier" : "0DBF0F482D482CE00089FC55",
+        "name" : "HW467UITests"
+      }
+    }
+  ],
+  "version" : 1
+}
